@@ -1,0 +1,7 @@
+{
+  "name": "Playistapi",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
